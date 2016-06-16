@@ -1,0 +1,27 @@
+.principal{
+	background-color:aqua;
+
+}
+
+.tiempo{
+	border:1px solid white;
+	padding-bottom:20px;
+	
+	 
+	padding:10%;
+	font-size:20px;
+	color:white;
+
+}
+.real{
+	border:1px solid #15399A;
+
+
+}
+
+p{
+	margin-left:30%;
+}
+.azul{
+	background:#15399A;
+}
